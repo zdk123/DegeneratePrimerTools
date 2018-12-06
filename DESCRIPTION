@@ -29,7 +29,7 @@ Imports:
     ggplot2 (>= 2.0),
     methods (>= 3.3.0),
     purrr (>= 0.2.2.2),
-    ggtree (>= 1.4.20),
+    ggtree (>= 1.12),
     data.table (>= 1.10.4),
     ggrepel (>= 0.6.5),
     gridExtra,
